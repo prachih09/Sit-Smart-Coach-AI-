@@ -58,10 +58,13 @@ PyInstaller
 
 **Use Executable(Window Users)** 
 
+**Only 64 bit window users can access**
+
 Go to the Releases
  section.
 
 Download SitSmartCoach.exe.
+https://github.com/prachih09/Sit-Smart-Coach-AI-/releases/download/v1.0.0/SitSmartCoach.exe
 
 Run the app directly—no setup required.
 
