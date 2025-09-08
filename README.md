@@ -1,4 +1,4 @@
-# Sit-Smart-Coach-AI-
+# Sit-Smart-Coach-AI
 Your AI Posture Buddy – Real-time posture feedback.
 SitSmartCoach is an AI-powered fitness and posture correction assistant designed to help people working from home or attending online meetings maintain healthy posture and body form.
 
@@ -14,7 +14,7 @@ Built with Python, MediaPipe, OpenCV, and Tkinter, this lightweight desktop app 
 
 ✅ Auto-startup option in Windows
 
-Features
+**Features**
 
 Real-Time Posture Detection – Uses your webcam to track shoulders, elbows, and eyes.
 
@@ -34,7 +34,7 @@ Movable Floating Popup – Always-on-top window you can drag anywhere.
 
 Windows Auto-Startup – Option to add/remove the app at Windows login.
 
-🛠️ Tech Stack
+**Tech Stack**
 
 Language: Python
 
@@ -56,7 +56,7 @@ PyInstaller
  – Packaged into .exe for Windows
 
 
-: Use Executable (Windows Users)
+**Use Executable(Window Users)** 
 
 Go to the Releases
  section.
@@ -65,7 +65,7 @@ Download SitSmartCoach.exe.
 
 Run the app directly—no setup required.
 
-🎯 Use Cases
+**Use Cases**
 
 Professionals working long hours in front of a laptop.
 
@@ -75,7 +75,7 @@ Remote workers who want AI-based posture reminders.
 
 Anyone who wants to reduce eye strain & poor sitting habits.
 
-📝 Future Enhancements
+**Future Enhancement**
 
 Add voice-based feedback.
 
@@ -85,7 +85,7 @@ Add advanced yoga/fitness form correction.
 
 Save analytics dashboard for daily posture reports.
 
-👩‍💻 Author
+**Author**
 
 Prachi Hole
 
@@ -93,6 +93,6 @@ GitHub: prachih09
 
 Project: SitSmartCoach – AI Buddy
 
-📜 License
+**License**
 
 This project is licensed under the MIT License – feel free to use, modify, and distribute with attribution.
